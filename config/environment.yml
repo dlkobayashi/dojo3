@@ -1,0 +1,2 @@
+prod:
+  api: 'http://jsonplaceholder.typicode.com'

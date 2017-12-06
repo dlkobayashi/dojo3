@@ -1,0 +1,8 @@
+default: --no-source --color --format pretty
+
+criacao: -t @criar
+
+alteracao: -t @alterar
+
+leitura: -t @ler
+

@@ -1,0 +1,20 @@
+prod:
+  criar_livro:
+    id: 10
+    title: 'Livro Dom Casmurro'
+    description : "teste@inmetrics.com.br"
+    pageCount: 256
+    excerpt: "Sumário resumido"
+    publishDate: "2017-06-15T13:00:00.549505+00:00"
+
+  ler_livro:
+    id: 5
+
+  alterar_livro:
+    id: 10
+    title: 'Livro Dom Casmurro'
+    description : "teste@inmetrics.com.br"
+    pageCount: 256
+    excerpt: "Sumário resumido"
+    publishDate: "2017-06-15T13:00:00.549505+00:00" 
+    
